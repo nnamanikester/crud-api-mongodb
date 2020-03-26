@@ -1,0 +1,11 @@
+{
+  "name": "crud-api-mongodb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nnamanikester/crud-api-mongodb.git",
+  "author": "KeScript <nnamanikester@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
